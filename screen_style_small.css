@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* Layout Small Screens */
+
+nav {
+	display: block;
+	position: static;
+	padding: 10px 0px 10px 0px;
+	background-color: #515673;
+}
+
+nav a {
+	color: #E69800;
+	display: block;
+	margin: 15px;
+	padding: 9px;
+	border: 4px groove #9A6300;
+	background: url(../images/mobile_link_arrow.png) no-repeat right center;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+nav a:hover { color: #fff; background-color: rgba(255,255,255,.15); }
+
+#mainpic{
+	content: url("images/AmongUsBG-small.jpg")
+}

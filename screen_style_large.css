@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { margin: 0px; padding: 0px; }
+
+nav { top: 275px; }
+nav a { margin: 0px 0px 0px 900px; }
+
+#mainpic{
+	background: url("AmongUsBG-large.jpg");
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+/* Layout Large Screens (default for older browsers) */
+
+

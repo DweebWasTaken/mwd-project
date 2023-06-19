@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+nav {  top: 200px; }
+nav a { margin-left: 600px; }
+
+.promo_container { padding: 0px 20px 15px 20px; }
+.promo_container .promo { background-position: 0px 0px; }
+.promo_container .promo .content { padding: 70px 30px 0px 0px; }
+
+#mainpic{
+	content: url("images/AmongUsBG-medium.jpg");
+}
